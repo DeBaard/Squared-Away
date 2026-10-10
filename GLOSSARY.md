@@ -13,7 +13,7 @@ A guarantee that the output never exceeds a set level. A property of the signal 
 _Avoid_: Limit, ceiling (bare), threshold
 
 **True Peak**:
-The peak level of the reconstructed analogue waveform, including peaks that fall between samples, measured per ITU-R BS.1770-4 with oversampled detection.
+The peak level of the reconstructed analogue waveform, including peaks that fall between samples, measured per ITU-R BS.1770-5 (current; Annex 2 substantively identical to -4) with oversampled detection.
 _Avoid_: dBTP (that is the unit, not the concept), intersample peak
 
 **Sample Peak**:
